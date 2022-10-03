@@ -1,12 +1,11 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Nyaoga;Makana;;;
-FN: Makana  Nyaoga 
+N:Fort;Bryce;;;
+FN: Bryce  Fort 
 ORG:Alterra Capital Partners;
-TITLE:Senior Associate
-EMAIL;type=INTERNET;type=WORK;type=pref:mnyaoga@alterracapital.com
-TEL;type=WORK;type=VOICE:+254 792 651000
+TITLE:Partner
+EMAIL;type=INTERNET;type=WORK;type=pref:fortb@alterracapital.com
+TEL;type=WORK;type=VOICE:+254 205 230500
 item1.ADR;type=WORK;type=pref:;;9 West, 9th Floor\nRing Road, Parklands\nNairobi;;;;Kenya
 item1.X-ABADR:sg
 item2.URL;type=pref:alterracapital.com
