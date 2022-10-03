@@ -1,13 +1,1 @@
-BEGIN:VCARD
-VERSION:3.0
-N:Fort;Bryce;;;
-FN: Bryce  Fort 
-ORG:Alterra Capital Partners;
-TITLE:Partner
-EMAIL;type=INTERNET;type=WORK;type=pref:fortb@alterracapital.com
-TEL;type=WORK;type=VOICE:+254 205 230500
-item1.ADR;type=WORK;type=pref:;;9 West, 9th Floor\nRing Road, Parklands\nNairobi;;;;Kenya
-item1.X-ABADR:sg
-item2.URL;type=pref:alterracapital.com
-item2.X-ABLabel:_$!<HomePage>!$_
-END:VCARD
+BEGIN:MECARD:N:Fort,Bryce;TEL:+254205230500;EMAIL:fortb@alterracapital.com;ADR:9 West,9th Floor,Ring Road,Parklands,Nairobi,Kenya;NOTE:Partner at Alterra Capital Partners;URL:https://alterracapital.com/;;
